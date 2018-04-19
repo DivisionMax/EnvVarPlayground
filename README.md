@@ -1,0 +1,1 @@
+This is a small playground with environment variables and a Python script while working through a [DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
